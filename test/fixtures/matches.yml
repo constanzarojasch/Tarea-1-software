@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  teamA: one
+  teamB: one
+  state: false
+  result: MyString
+
+two:
+  teamA: two
+  teamB: two
+  state: false
+  result: MyString
